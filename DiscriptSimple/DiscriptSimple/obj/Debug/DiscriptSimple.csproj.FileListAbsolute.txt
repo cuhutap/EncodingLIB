@@ -1,0 +1,5 @@
+D:\Проэкты ВизуалСтудии\Курсовые\DiscriptSimple\DiscriptSimple\bin\Debug\DiscriptSimple.dll
+D:\Проэкты ВизуалСтудии\Курсовые\DiscriptSimple\DiscriptSimple\bin\Debug\DiscriptSimple.pdb
+D:\Проэкты ВизуалСтудии\Курсовые\DiscriptSimple\DiscriptSimple\obj\Debug\DiscriptSimple.csprojResolveAssemblyReference.cache
+D:\Проэкты ВизуалСтудии\Курсовые\DiscriptSimple\DiscriptSimple\obj\Debug\DiscriptSimple.dll
+D:\Проэкты ВизуалСтудии\Курсовые\DiscriptSimple\DiscriptSimple\obj\Debug\DiscriptSimple.pdb
